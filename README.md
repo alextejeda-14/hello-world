@@ -1,2 +1,4 @@
 # hello-world
-First initial repository with the walkthrough guide
+Hello Ya'll,
+
+This is my first initial repository and first branch that I will know be committing.
