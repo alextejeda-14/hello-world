@@ -1,4 +1,3 @@
-# hello-world
-Hello Ya'll,
+# Hello World
 
-This is my first initial repository and first branch that I will know be committing.
+This is my first initial repository and first branch to test how github works
